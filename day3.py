@@ -27,7 +27,7 @@ location = [0, 0]
 santaMap = [[1, 0], [0, 0]]
 
 count = 0
-print len(input)
+print(len(input))
 for move in input:
     print(count)
     count += 1
